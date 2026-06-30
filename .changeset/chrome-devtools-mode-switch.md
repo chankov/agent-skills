@@ -1,5 +1,5 @@
 ---
-"@chankov/agent-skills": minor
+"@chankov/agent-skills": patch
 ---
 
 Make the `chrome-devtools-mcp` pi extension mode-configurable via env vars, so the always-on browser stack covers both headless and headful use:
